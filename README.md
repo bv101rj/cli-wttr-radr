@@ -1,5 +1,5 @@
 # cli-wttr-radr
-ez weather and radar for the cli 
+ez weather and radar for the cli.
 
 ============================================================
  _ ___          _ ___  _     _            _      _        _ 
