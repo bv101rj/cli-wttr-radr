@@ -1,4 +1,6 @@
 #!/bin/bash
+#
+#This should be taking a place like "CA+Fresno"
 echo "$1" > .wttr
 cp radr /usr/local/bin/radr
 cp wttr /usr/local/bin/wttr
