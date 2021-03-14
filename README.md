@@ -1,8 +1,6 @@
 # cli-wttr-radr
 ez weather and radar for the cli.
 
-'IwlIj jachjaj!!!!
-
 Feel free to use this as you want. Just don't give it to the corpo's plz. 
 
 As a note, you ARE going to need a single depend to get this working.
